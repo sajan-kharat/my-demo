@@ -1,2 +1,2 @@
 # my-demo
-This is demo for class
+This is demo for class.
